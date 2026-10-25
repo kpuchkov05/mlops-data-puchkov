@@ -1,0 +1,4 @@
+[core]
+    remote = local-storage
+['remote "local-storage"']
+    url = /Users/kirillpuckov/Documents/Codex/2026-10-25/gb/work/mlops-data-puchkov-dvc-remote
